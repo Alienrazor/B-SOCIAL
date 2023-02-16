@@ -281,23 +281,23 @@ main .container .left .profile{
 }
  
 .middle .stories .story:nth-child(1){
-        background: url(/story-1.jpg)
+        background: url(https://raw.githubusercontent.com/Alienrazor/social-media-/main/assets/story-1.jpg)
         no-repeat center center/cover;
 }
 .middle .stories .story:nth-child(2){
-        background: url(/story-5.jpg)
+        background: url(https://raw.githubusercontent.com/Alienrazor/social-media-/main/assets/story-5.jpg)
         no-repeat center center/cover;
 }
 .middle .stories .story:nth-child(3){
-        background: url(/story-2.jpg)
+        background: url(https://raw.githubusercontent.com/Alienrazor/social-media-/main/assets/story-2.jpg)
         no-repeat center center/cover;
 }
 .middle .stories .story:nth-child(4){
-        background: url(/story-3.jpg)
+        background: url(https://raw.githubusercontent.com/Alienrazor/social-media-/main/assets/story-3.jpg)
         no-repeat center center/cover;
 }
 .middle .stories .story:nth-child(5){
-        background: url(/story-4.jpg)
+        background: url(https://raw.githubusercontent.com/Alienrazor/social-media-/main/assets/story-4.jpg)
         no-repeat center center/cover;
 }
 
