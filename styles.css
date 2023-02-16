@@ -281,7 +281,7 @@ main .container .left .profile{
 }
  
 .middle .stories .story:nth-child(1){
-        background: url(https://raw.githubusercontent.com/Alienrazor/social-media-/main/assets/story-1.jpg)
+        background: url(https://github.com/Alienrazor/social-media-/blob/main/assets/story-1.jpg)
         no-repeat center center/cover;
 }
 .middle .stories .story:nth-child(2){
